@@ -2,7 +2,7 @@
 
 ABSTRACT
 The use of recommender systems is widespread.
-Our primary attention is given to the uses of tourism. 
+Our primary attention is given to the use of tourism. 
 Since many years ago, conferences have been extensively searched.
 We present a thorough and up-to-date overview of this topic, taking into account the various types of methods, the diversity of recommendation algorithms, the features these systems have to offer, and their usage of artificial intelligence approaches. 
 The most potential topics of research in this field for the coming years are also suggested by our poll, along with some advice for tourist recommenders. 
